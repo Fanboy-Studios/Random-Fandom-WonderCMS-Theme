@@ -1,23 +1,23 @@
-# Random Fandom WonderCMS Theme Developmental
-The unstable, buggy, developmental version of Random Fandom WonderCMS Theme!
+# Random Fandom WonderCMS Theme
+The main version of Random Fandom WonderCMS Theme!
 
 # Demo
 Not Available Yet.
 
 # Download and Setup
-1. Add "https://github.com/Fanboy-Studios/Random-Fandom-WonderCMS-Theme-Developmental" to your themes.
+1. Add "https://github.com/Fanboy-Studios/Random-Fandom-WonderCMS-Theme" to your themes.
 2. Activate the theme.
 3. For updates, check the themes for updates, if there's any then you can apply them.
 4. You may have to clear your browser cache in order to see the changes.
 
 # Features
 1. A "title logo" can be used in place of simple text, by placing a
-   title_logo.png file into themes/randomfandomdev/img/.
+   title_logo.png file into themes/randomfandom/img/.
    - Note that the theme ships with the assumption that you will use
      a title_logo.png. If you do not, you'll need to make a minor
      CSS change that is marked in the theme's css file.
 2. Each navigation menu item can be replaced with an icon. To do so,
-   place icons named ~pagename~.png into themes/randomfandomdev/img/menu/.
+   place icons named ~pagename~.png into themes/randomfandom/img/menu/.
    - By default, the theme ships with the "home" page replaced with
      a small home icon.
    - There is also an option to completely remove the home navigation,
